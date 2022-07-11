@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "doctors appointment",
+      "day": "5th Feb 2022",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "14th Dec 2022",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Food at School",
+      "day": "11th Nov 2021",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Pick up Groceries",
+      "day": "21st March 2019",
+      "reminder": true
+    },
+    {
+      "text": "Task from Db",
+      "day": "2nd December, 2013",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "await promise",
+      "day": "30th January, 2022",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Pick up Stephanie",
+      "day": "5th March, 2022",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
